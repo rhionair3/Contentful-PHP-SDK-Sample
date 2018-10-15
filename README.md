@@ -20,3 +20,9 @@ On Windows, copy *index.php* and *composer.json* to the web server root you usua
 ## Next steps
 
 Read our [guide](https://www.contentful.com/developers/docs/php/tutorials/getting-started-with-contentful-and-php/) to get started with the PHP SDK.
+
+## See The Sample Result In Demo
+
+```
+https://contentful-native-php.herokuapp.com/
+```
