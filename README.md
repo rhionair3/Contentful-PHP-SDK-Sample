@@ -1,13 +1,10 @@
-# Welcome to the PHP Boilerplate
-
-To use this boilerplate you need to have PHP 5.5.9 or newer. On Windows you also need to have [composer](https://getcomposer.org) installed.
-
+## Contentful CMS API PHP Sample Integration
 ## Get the code
 
 Clone the project using the following command:
 
 ```bash
-git clone https://github.com/contentful/boilerplate-javascript.git
+git clone https://github.com/rhionair3/Contentful-PHP-SDK-Sample.git
 ```
 
 ## Start the project
