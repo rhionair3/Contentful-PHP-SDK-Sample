@@ -23,6 +23,5 @@ Read our [guide](https://www.contentful.com/developers/docs/php/tutorials/gettin
 
 ## See The Sample Result In Demo
 
-```
-[https://contentful-native-php.herokuapp.com/](https://contentful-native-php.herokuapp.com/)
-```
+
+### [https://contentful-native-php.herokuapp.com/](https://contentful-native-php.herokuapp.com/)
